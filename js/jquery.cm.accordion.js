@@ -2,7 +2,7 @@
  *  Plugin: jQuery CM Accordion 
  *  Author: Asif Mughal 
  *  URL: www.codehim.com
- *  Copyright (c) - 2019 
+ *  Copyright (c) 2019 - CodeHim
  */
 (function ($) {
 	$.fn.cmAccordion = function (options) {
